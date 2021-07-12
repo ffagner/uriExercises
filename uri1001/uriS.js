@@ -5,4 +5,3 @@ var b = parseInt(test[1])
 var x = a + b
 
 console.log('X = ' + x);
-
